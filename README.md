@@ -12,7 +12,7 @@ This project demonstrates the complete analytics workflow—from data preprocess
 
 ## Tech Stack
 
-- **Python** (Pandas, NumPy)
+- **Python** (Pandas)
 - **PostgreSQL**
 - **SQL**
 - **Power BI**
@@ -109,14 +109,6 @@ Customer-Shopping-Behavior-Analytics/
 
 ---
 
-## Future Enhancements
-
-- Customer Lifetime Value (CLV) Analysis
-- RFM Customer Segmentation
-- Sales Forecasting
-- Predictive Customer Churn Modeling
-- Recommendation System
-- Automated ETL Pipeline
 
 ---
 
